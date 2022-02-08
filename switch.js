@@ -1,4 +1,4 @@
-/* let num = 3;
+let num = 3;
 
 switch(num){
     case 1: console.log(`Num tiene el valor de 1`);
@@ -19,7 +19,7 @@ switch(num){
         console.log(`${num} es par`);
         break;
 }  
- */
+
 let num1 = 9;
 let num2 = 3;
 let num3 = 5;
